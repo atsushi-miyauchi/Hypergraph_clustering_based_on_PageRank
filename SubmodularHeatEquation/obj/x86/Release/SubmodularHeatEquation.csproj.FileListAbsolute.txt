@@ -1,0 +1,12 @@
+/Users/miyauchiatsushi/Dropbox/active_works/exp_miyauchi/heat_equation/SubmodularHeatEquation/SubmodularHeatEquation/bin/Release/SubmodularHeatEquation.exe
+/Users/miyauchiatsushi/Dropbox/active_works/exp_miyauchi/heat_equation/SubmodularHeatEquation/SubmodularHeatEquation/bin/Release/MathNet.Numerics.dll
+/Users/miyauchiatsushi/Dropbox/active_works/exp_miyauchi/heat_equation/SubmodularHeatEquation/SubmodularHeatEquation/bin/Release/MathNet.Numerics.xml
+/Users/miyauchiatsushi/Dropbox/active_works/exp_miyauchi/heat_equation/SubmodularHeatEquation/SubmodularHeatEquation/obj/x86/Release/SubmodularHeatEquation.csprojAssemblyReference.cache
+/Users/miyauchiatsushi/Dropbox/active_works/exp_miyauchi/heat_equation/SubmodularHeatEquation/SubmodularHeatEquation/obj/x86/Release/SubmodularHeatEquation.csproj.CopyComplete
+/Users/miyauchiatsushi/Dropbox/active_works/exp_miyauchi/heat_equation/SubmodularHeatEquation/SubmodularHeatEquation/obj/x86/Release/SubmodularHeatEquation.exe
+/Users/miyauchiatsushi/Dropbox/active_works/exp_miyauchi/heat_equation/to_Qinqing/SubmodularHeatEquation/bin/Release/SubmodularHeatEquation.exe
+/Users/miyauchiatsushi/Dropbox/active_works/exp_miyauchi/heat_equation/to_Qinqing/SubmodularHeatEquation/bin/Release/MathNet.Numerics.dll
+/Users/miyauchiatsushi/Dropbox/active_works/exp_miyauchi/heat_equation/to_Qinqing/SubmodularHeatEquation/bin/Release/MathNet.Numerics.xml
+/Users/miyauchiatsushi/Dropbox/active_works/exp_miyauchi/heat_equation/to_Qinqing/SubmodularHeatEquation/obj/x86/Release/SubmodularHeatEquation.csprojAssemblyReference.cache
+/Users/miyauchiatsushi/Dropbox/active_works/exp_miyauchi/heat_equation/to_Qinqing/SubmodularHeatEquation/obj/x86/Release/SubmodularHeatEquation.csproj.CopyComplete
+/Users/miyauchiatsushi/Dropbox/active_works/exp_miyauchi/heat_equation/to_Qinqing/SubmodularHeatEquation/obj/x86/Release/SubmodularHeatEquation.exe
